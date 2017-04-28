@@ -1,2 +1,6 @@
 tttttttt
+
 branch master insert.
+child_branch insert
+
+finish conflict merge 
